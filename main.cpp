@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"testing"<<endl;
+    cout<<"testin3g"<<endl;
+    cout<<"testin31234g"<<endl;
+    cout<<"testin2g"<<endl;
 }
